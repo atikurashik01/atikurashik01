@@ -21,3 +21,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=atikurashik01&show_icons=true&locale=en" alt="atikurashik01" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=atikurashik01&" alt="atikurashik01" /></p>
+<img src="https://raw.githubusercontent.com/ashikatikur0/ashikatikur0/output/snake.svg" alt="Snake animation" />
+
+###
